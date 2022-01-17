@@ -1,0 +1,28 @@
+body{
+    background-color: #FFEF28;
+}
+.timer{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 5rem;
+}
+.timer_abr{
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+.timer_item{
+    margin-right: 4%;
+    width: 15%;
+}
+.timer_el{
+    border-radius: 20px;
+    width: 100%;
+    background-color: #FFF358;
+    border: solid black 3px;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+}
