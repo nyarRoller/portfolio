@@ -1,0 +1,39 @@
+# ninja log v5
+7	3685	6752913766633689	qt_Search_enging_autogen/timestamp	28535eb8b5653e69
+7	3685	6752913766633689	qt_Search_enging_autogen/mocs_compilation.cpp	28535eb8b5653e69
+7	3685	6752913766633689	D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/qt_Search_enging_autogen/timestamp	28535eb8b5653e69
+7	3685	6752913766633689	D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/qt_Search_enging_autogen/mocs_compilation.cpp	28535eb8b5653e69
+3686	3932	6752913773001253	qt_Search_enging_autogen/EWIEGA46WW/qrc_resource.cpp	5a40a56c7fc74ddc
+3686	3932	6752913773001253	D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/qt_Search_enging_autogen/EWIEGA46WW/qrc_resource.cpp	5a40a56c7fc74ddc
+4004	5465	6752913788244975	CMakeFiles/qt_Search_enging.dir/qt_Search_enging_autogen/EWIEGA46WW/qrc_resource.cpp.obj	1187ec722a0ee502
+3981	5470	6752913788244975	CMakeFiles/qt_Search_enging.dir/telephones.cpp.obj	8435671938de6696
+3969	9059	6752913824189675	CMakeFiles/qt_Search_enging.dir/sort.cpp.obj	7e6ab78bcfbf07b2
+3946	9089	6752913824658465	CMakeFiles/qt_Search_enging.dir/main.cpp.obj	c1e356a798439687
+3933	10949	6752913843273549	CMakeFiles/qt_Search_enging.dir/qt_Search_enging_autogen/mocs_compilation.cpp.obj	a9eede303bf89877
+3939	11171	6752913845391269	CMakeFiles/qt_Search_enging.dir/add_devices.cpp.obj	655180fb6852e87
+3991	11541	6752913849119054	CMakeFiles/qt_Search_enging.dir/show_device.cpp.obj	af000086d90dad38
+3954	12601	6752913859808146	CMakeFiles/qt_Search_enging.dir/mainwindow.cpp.obj	f0733328fde90dbb
+12602	13782	6752913871447225	qt_Search_enging.exe	f3edbec35ddc3743
+18	667	6754398882154820	qt_Search_enging_autogen/timestamp	28535eb8b5653e69
+18	667	6754398882154820	qt_Search_enging_autogen/mocs_compilation.cpp	28535eb8b5653e69
+18	667	6754398882154820	D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/qt_Search_enging_autogen/timestamp	28535eb8b5653e69
+18	667	6754398882154820	D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/qt_Search_enging_autogen/mocs_compilation.cpp	28535eb8b5653e69
+703	5383	6754398929355779	CMakeFiles/qt_Search_enging.dir/sort.cpp.obj	7e6ab78bcfbf07b2
+687	6401	6754398939528202	CMakeFiles/qt_Search_enging.dir/add_devices.cpp.obj	655180fb6852e87
+710	6754	6754398943015920	CMakeFiles/qt_Search_enging.dir/show_device.cpp.obj	af000086d90dad38
+23	2070	6754399539064775	qt_Search_enging_autogen/timestamp	28535eb8b5653e69
+23	2070	6754399539064775	qt_Search_enging_autogen/mocs_compilation.cpp	28535eb8b5653e69
+23	2070	6754399539064775	D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/qt_Search_enging_autogen/timestamp	28535eb8b5653e69
+23	2070	6754399539064775	D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/qt_Search_enging_autogen/mocs_compilation.cpp	28535eb8b5653e69
+2296	8747	6754399606364187	CMakeFiles/qt_Search_enging.dir/add_devices.cpp.obj	655180fb6852e87
+2313	9454	6754399613406334	CMakeFiles/qt_Search_enging.dir/show_device.cpp.obj	af000086d90dad38
+2089	10307	6754399621953591	CMakeFiles/qt_Search_enging.dir/mainwindow.cpp.obj	f0733328fde90dbb
+10307	11812	6754399636917148	qt_Search_enging.exe	f3edbec35ddc3743
+27	745	6754402415914284	qt_Search_enging_autogen/timestamp	28535eb8b5653e69
+27	745	6754402415914284	qt_Search_enging_autogen/mocs_compilation.cpp	28535eb8b5653e69
+27	745	6754402415914284	D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/qt_Search_enging_autogen/timestamp	28535eb8b5653e69
+27	745	6754402415914284	D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/qt_Search_enging_autogen/mocs_compilation.cpp	28535eb8b5653e69
+770	6689	6754402475378281	CMakeFiles/qt_Search_enging.dir/add_devices.cpp.obj	655180fb6852e87
+776	7113	6754402479609237	CMakeFiles/qt_Search_enging.dir/show_device.cpp.obj	af000086d90dad38
+763	8258	6754402491071802	CMakeFiles/qt_Search_enging.dir/mainwindow.cpp.obj	f0733328fde90dbb
+8258	8669	6754402495032877	qt_Search_enging.exe	f3edbec35ddc3743

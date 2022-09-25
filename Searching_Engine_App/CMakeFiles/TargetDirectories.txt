@@ -1,0 +1,5 @@
+D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/CMakeFiles/qt_Search_enging.dir
+D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/CMakeFiles/qt_Search_enging_autogen_timestamp_deps.dir
+D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/CMakeFiles/qt_Search_enging_autogen.dir

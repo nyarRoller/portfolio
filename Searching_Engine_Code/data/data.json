@@ -1,0 +1,58 @@
+[
+    {
+        "battery": 0,
+        "display": 0,
+        "gType": 0,
+        "name": "iphone",
+        "price": 0,
+        "year": 0
+    },
+    {
+        "battery": 0,
+        "display": 0,
+        "gType": 0,
+        "name": "iphone 12",
+        "price": 3000,
+        "year": 0
+    },
+    {
+        "battery": 0,
+        "display": 0,
+        "gType": 0,
+        "name": "iphone 12",
+        "price": 3000,
+        "year": 2021
+    },
+    {
+        "battery": 0,
+        "display": 0,
+        "gType": 0,
+        "name": "iphone 14",
+        "price": 0,
+        "year": 0
+    },
+    {
+        "battery": 3250,
+        "display": 8,
+        "gType": 2,
+        "name": "new phine",
+        "price": 3000,
+        "year": 2022
+    },
+    {
+        "battery": 3250,
+        "display": 8,
+        "gType": 2,
+        "name": "xiaomi note 11",
+        "price": 3000,
+        "year": 2022
+    },
+    {
+        "battery": 0,
+        "display": 0,
+        "gType": 0,
+        "name": "xioami",
+        "price": 0,
+        "year": 0
+    }
+]

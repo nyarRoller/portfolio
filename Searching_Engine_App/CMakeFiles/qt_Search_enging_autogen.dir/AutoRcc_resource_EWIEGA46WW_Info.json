@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/qt_Search_enging_autogen",
+	"CMAKE_BINARY_DIR" : "D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/something for work/qt_Search_enging",
+	"CMAKE_SOURCE_DIR" : "D:/something for work/qt_Search_enging",
+	"INCLUDE_DIR" : "D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/qt_Search_enging_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/something for work/qt_Search_enging/icon.ico",
+		"D:/something for work/qt_Search_enging/img/bg.png"
+	],
+	"LOCK_FILE" : "D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/CMakeFiles/qt_Search_enging_autogen.dir/AutoRcc_resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.2.4/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/something for work/build-qt_Search_enging-Desktop_Qt_6_2_4_MinGW_64_bit-Release/CMakeFiles/qt_Search_enging_autogen.dir/AutoRcc_resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/something for work/qt_Search_enging/resource.qrc",
+	"VERBOSITY" : 0
+}

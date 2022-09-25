@@ -1,0 +1,34 @@
+[
+    {
+        "battery": 0,
+        "display": 0,
+        "gType": 0,
+        "name": "iphone",
+        "price": 0,
+        "year": 0
+    },
+    {
+        "battery": 0,
+        "display": 0,
+        "gType": 0,
+        "name": "iphone 12",
+        "price": 3000,
+        "year": 0
+    },
+    {
+        "battery": 0,
+        "display": 0,
+        "gType": 0,
+        "name": "iphone 12",
+        "price": 3000,
+        "year": 2021
+    },
+    {
+        "battery": 0,
+        "display": 0,
+        "gType": 0,
+        "name": "iphone 14",
+        "price": 0,
+        "year": 0
+    }
+]
